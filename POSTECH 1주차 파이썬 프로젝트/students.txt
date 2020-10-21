@@ -1,0 +1,5 @@
+20180001	HongGildong	84	73
+20180002	LeeJieun	92	89
+20180007	KimCheolsu	57	62
+20180009	LeeYeonghee	81	84
+20180011	Hadonghun	58	68
