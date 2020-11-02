@@ -1,0 +1,4 @@
+﻿  BMI calculator.cpp
+c:\users\it\source\repos\proj_01\proj_01\bmi calculator.cpp(61): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+c:\users\it\source\repos\proj_01\proj_01\bmi calculator.cpp(65): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  Proj_01.vcxproj -> C:\Users\it\source\repos\Proj_01\Debug\Proj_01.exe
